@@ -1,54 +1,9 @@
 <div dir="rtl">
+<h1 id="sadegh-shafii">صادق شفیعی</h1>
 
-# صادق شفیعی
+<p><em>مهندس نرم افزار و توسعه دهنده بکند، کرمان، ایران</em> <br></p>
 
-_مهندس نرم افزار و توسعه دهنده بکند، کرمان، ایران_ <br>
+<p><a href="mailto:sadshafiei.01@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/sadi-shafii-1250871b6/">LinkedIn</a> / <a href="https://github.com/sadi01/">GitHub</a> / <a href="https://twitter.com/SADi_Shafii/">Twitter</a> / <a href="https://dev.to/sadi01/">DEV</a></p>
 
-[Email](mailto:sadshafiei.01@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sadi-shafii-1250871b6/) / [GitHub](https://github.com/sadi01/) / [Twitter](https://twitter.com/SADi_Shafii/) / [DEV](https://dev.to/sadi01/)
-
-## تجربه مهندسی نرم افزار
-
-**توسعه دهنده بکند** در [Mobit.ir](https://mobit.ir/) _(اسفند ۱۳۹۷ - اکنون)_ <br>
-فروشگاه اینترنتی کالاهای دیجیتال.
-- طراحی و توسعه معماری سیستم
-- کدنویسی در معماری چند لایه ای و تعامل با سرویس های بیرونی
-- طراحی و توسعه بخش لجستیک و مدیریت انبار
-- **_تکنولوژی های استفاده شده:_** PHP 8.0, Yii2 Framework, MySQL 8, Redis, Mongodb, Scheduling, ElasticSearch, OpenSearch, Sentry, Grafana, Docker, Gitlab CI/CD, HTML, CSS, Bootstrap.
-  <br><br>
-
-**توسعه دهنده بکند** فریلنسر _(اسفند ۱۳۹۱ - اسفند ۱۳۹۷)_ <br>
-تحقیق، یادگیری و توسعه نرم افزا.
-- طراحی و توسعه نرم افزارهای تحت وب
-- شرکت در دوره ها و کنفرانس های حوزه نرم افزار و برنامه نویسی
-- یادگیری زبان های برنامه نویسی
-- **_تکنولوژی های استفاده شده:_** PHP, Yii2 Framework, MySQL, Redis, Git, HTML, CSS, Bootstrap.
-  <br><br>
-
-## دوره های آموزشی
-
-**دوره پیشرفته ElasticSearch** به صورت آنلاین _(اردیبهشت ۱۴۰۱)_ <br>
-آشنایی با مفاهیم پیشرفته ElasticSearch برای بهبود نتایج جستجو و بهینه سازی
-<br><br>
-
-**دوره مقدماتی لینوکس** در موسسه آنیسا _(آذر ۱۴۰۰)_ <br>
-آشنایی با مفاهیم پایه لینوکس
-<br><br>
-
-## موفقیت ها
-
-**مقام اول** در استارتاپ ویکند خوشه _(آذر ۱۳۹۸)_ <br>
-طراحی و پیاده سازی طرح ارائه شده در رویداد
-<br><br>
-
-## زبان ها
-
-**فارسی**: مادری <br>
-**انگلیسی**: B1
-<br><br>
-
-## تحصیلات
-
-**کارشناسی مهندسی نرم افزار** کامپیوتر<br>
-[دانشگاه شهید باهنر کرمان](https://uk.ac.ir/) - کرمان, کرمان, ایران _(۱۳۹۰ - ۱۳۸۶)_
-
+<h2 id="-engineering-experience"> تجربه مهندسی نرم افزار</h2>
 </div>
