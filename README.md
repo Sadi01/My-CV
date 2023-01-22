@@ -5,7 +5,7 @@
 
 <p><a href="mailto:sadshafiei.01@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/sadi-shafii-1250871b6/">LinkedIn</a> / <a href="https://github.com/sadi01/">GitHub</a> / <a href="https://twitter.com/SADi_Shafii/">Twitter</a> / <a href="https://dev.to/sadi01/">DEV</a></p>
 
-<h2 id="-engineering-experience">💻 تجربه مهندسی نرم افزار</h2>
+<h2 id="-engineering-experience" dir="rtl">💻 تجربه مهندسی نرم افزار</h2>
 <p><strong>توسعه دهنده بکند</strong> در <a href="https://mobit.ir/">Mobit.ir</a> <em>(اسفند ۱۳۹۷ - اکنون)</em> <br>
 فروشگاه اینترنتی کالاهای دیجیتال.</p>
 <ul>
@@ -33,23 +33,23 @@ PHP, Yii2 Framework, MySQL, Redis, Git, HTML, CSS, Bootstrap.
 <br><br></li>
 </ul>
 
-<h2 id="-engineering-experience">📄 دوره های آموزشی</h2>
+<h2 id="-engineering-experience" dir="rtl">📄 دوره های آموزشی</h2>
 <p><strong>دوره پیشرفته ElasticSearch</strong> به صورت آنلاین <em>(اردیبهشت ۱۴۰۱)</em> <br>
 فروشگاه اینترنتی کالاهای دیجیتال.</p>
 
 <p><strong>دوره مقدماتی لینوکس</strong> در موسسه آنیسا <em>(آذر ۱۴۰۰)</em> <br>
 فروشگاه اینترنتی کالاهای دیجیتال.</p>
 
-<h2 id="-engineering-experience">🏆 موفقیت ها</h2>
+<h2 id="-engineering-experience"" dir="rtl">🏆 موفقیت ها</h2>
 <p><strong>مقام اول</strong> در استارتاپ ویکند خوشه به همراه تیم آواپرداز <em>(آذر ۱۳۹۸)</em> <br>
 طراحی و پیاده سازی طرح ارائه شده در رویداد</p>
 
-<h2 id="-languages">💬 زبان ها</h2>
+<h2 id="-languages" dir="rtl">💬 زبان ها</h2>
 <p><strong>فارسی</strong>: مادری <br>
 <strong>انگلیسی</strong>: B1
 <br><br></p>
 
-<h2 id="-education">‍🎓 تحصیلات</h2>
+<h2 id="-education" dir="rtl">‍🎓 تحصیلات</h2>
 <p><strong>کارشناسی مهندسی نرم افزار</strong> کامپیوتر <br>
 <a href="https://uk.ac.ir/">دانشگاه شهید باهنر کرمان</a> - کرمان، کرمان، ایران <em>(۱۳۹۰ - ۱۳۸۶)</em></p>
 </div>
