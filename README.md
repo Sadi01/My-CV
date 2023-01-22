@@ -1,5 +1,9 @@
 <div dir="rtl">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <h1 id="sadegh-shafii">صادق شفیعی</h1>
+<img style="border-radius: 60px; width: 90px; margin-top: 30px;" src="https://media.licdn.com/dms/image/C5603AQFFcaK-YTC3EA/profile-displayphoto-shrink_800_800/0/1598700886740?e=2147483647&v=beta&t=sPluisHbcMPxUl9w7rdL_mH93MWgM16kSf3aytwc0Sk" alt="Sadegh Shafii">
+</div>
 
 <p><em>مهندس نرم افزار و توسعه دهنده بکند، کرمان، ایران</em> <br></p>
 
