@@ -25,6 +25,7 @@ OpenSearch, Sentry, Grafana, Docker, Gitlab CI/CD, HTML, CSS, Bootstrap.
 <ul>
   <li>یادگیری زبان های برنامه نویسی</li>
   <li>شرکت در دوره ها و کنفرانس های حوزه نرم افزار و برنامه نویسی</li>
+  <li>طراحی دیتابیس</li>
   <li>طراحی و توسعه نرم افزارهای تحت وب</li>
   <li><strong><em>تکنولوژی های استفاده شده:</em></strong><br>
 <span dir="ltr">
